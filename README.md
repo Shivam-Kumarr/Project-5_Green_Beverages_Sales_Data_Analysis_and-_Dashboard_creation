@@ -3,3 +3,5 @@
 * Built complex DAX measures for Net Revenue (adjusting resizing, tax incentives, and discounts) and YoY comparisons using current-year denominator logic per business requirements.
 * Solved data model challenges by creating a custom date table, fixing date formats, and optimizing relationships to ensure accurate time intelligence calculations.
 * Designed user-friendly visualizations including KPI cards, hierarchically sorted month/year views, and conditional formatting for growth trends.
+
+
