@@ -4,6 +4,6 @@
 * Designed interactive visualizations showing monthly/quarterly trends and regional performance (including 34.79% tea category share)
 * Solved complex data modeling issues by building a custom date table and fixing calculation errors in time intelligence
 * Automated financial reporting processes, reducing manual work while improving accuracy in tracking discounts and tax incentives
-![Uploading Screenshot 2025-04-06 185101.png…]()
+
 
 
